@@ -71,7 +71,6 @@ for (int i=a; i<=b; i++)
     
 }
 
-printf("\n");
 
 }
 

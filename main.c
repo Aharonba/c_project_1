@@ -6,10 +6,10 @@ int main(){
 int a;
 int b;
 
-printf("Enter first number: ");
+
       scanf("%d", &a);
    
-printf("Enter second number: ");
+
       scanf("%d", &b);
 
 
@@ -71,6 +71,7 @@ for (int i=a; i<=b; i++)
     
 }
 
+printf("\n");
 
 }
 
